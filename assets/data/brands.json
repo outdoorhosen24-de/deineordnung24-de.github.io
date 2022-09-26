@@ -1,31 +1,10 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
-    },
-    {
         "key": "sonstige",
         "name": "Sonstige",
         "slug": "sonstige",
         "productCategory": "Sonstige",
         "localThumb": "/assets/images/hersteller/sonstige.webp"
-    },
-    {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
     },
     {
         "key": "obi",
@@ -35,52 +14,59 @@
         "localThumb": "/assets/images/hersteller/obi.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "wenko",
+        "name": "Wenko",
+        "slug": "wenko",
+        "productCategory": "Wenko",
+        "localThumb": "/assets/images/hersteller/wenko.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "schulte",
+        "name": "Schulte",
+        "slug": "schulte",
+        "productCategory": "Schulte",
+        "localThumb": "/assets/images/hersteller/schulte.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "kis",
+        "name": "KIS",
+        "slug": "kis",
+        "productCategory": "KIS",
+        "localThumb": "/assets/images/hersteller/kis.webp"
     },
     {
-        "key": "cmi",
-        "name": "CMI",
-        "slug": "cmi",
-        "productCategory": "CMI",
-        "localThumb": "/assets/images/hersteller/cmi.webp"
+        "key": "eurobox-system",
+        "name": "Eurobox-System",
+        "slug": "eurobox-system",
+        "productCategory": "Eurobox-System",
+        "localThumb": "/assets/images/hersteller/eurobox-system.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "hailo",
+        "name": "Hailo",
+        "slug": "hailo",
+        "productCategory": "Hailo",
+        "localThumb": "/assets/images/hersteller/hailo.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "ok",
+        "name": "ok",
+        "slug": "ok",
+        "productCategory": "ok",
+        "localThumb": "/assets/images/hersteller/ok.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "kesper",
+        "name": "Kesper",
+        "slug": "kesper",
+        "productCategory": "Kesper",
+        "localThumb": "/assets/images/hersteller/kesper.webp"
+    },
+    {
+        "key": "dolle",
+        "name": "Dolle",
+        "slug": "dolle",
+        "productCategory": "Dolle",
+        "localThumb": "/assets/images/hersteller/dolle.webp"
     }
 ]
