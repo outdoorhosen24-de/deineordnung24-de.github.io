@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/wenko", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/wenko-garderobenlift-wenko-3892718-1.jpg":"\u002Fassets\u002Fimages\u002Fwenko-garderobenlift-wenko-3892718-1.webp"}}],fetch:{},mutations:void 0});
