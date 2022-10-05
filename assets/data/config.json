@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "deineordnung24.de",
+    "hostname": "https://www.deineordnung24.de/",
+    "email": "deineordnung24.desurrealnetworks.io",
+    "organization": "deineordnung24.de",
+    "logoText": "Deineordnung24.de",
+    "title": "Aufbewahrung & Ordnung",
+    "subline": "Der Online Shop f\u00fcr Aufbewahrung & Ordnung",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "9444175",
+        "7454085",
+        "3991536",
+        "1691922",
+        "6037592",
+        "6894851"
+    ],
+    "winnerProducts": [
+        "9444209",
+        "3548898",
+        "6873426"
+    ],
+    "featuredCategories": [
+        "M\u00fclleimer",
+        "M\u00fclleimer",
+        "Textile Aufbewahrung",
+        "Umzugskartons",
+        "Textile Aufbewahrung",
+        "Textile Aufbewahrung"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Aufbewahrung & Ordnung",
-        "featureText": "Your featured text goes here",
+        "featureText": "Aufbewahrung & Ordnung ist ein Shop, der sich auf die Aufbewahrung von Gegenst\u00e4nden und die Ordnung von R\u00e4umen spezialisiert hat. Hier finden Sie alles, was Sie f\u00fcr die Organisation Ihres Zuhauses oder Ihres B\u00fcros ben\u00f6tigen. Von Aufbewahrungsk\u00f6rben und -boxen \u00fcber Ordnungssysteme bis hin zu Schreibtisch- und B\u00fcrobedarf ist alles vorhanden.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Aufbewahrung & Ordnung: Die beste L\u00f6sung f\u00fcr Ihr Zuhause",
+            "metaDescription": "Aufbewahrung & Ordnung - alles f\u00fcr ein aufger\u00e4umtes Zuhause. Regale, K\u00f6rbe, Schubladen & mehr.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Aufbewahrung & Ordnung: Tipps f\u00fcr ein aufger\u00e4umtes Zuhause",
+                    "text": "Aufbewahrung und Ordnung sind wichtig, um ein Zuhause sauber und aufger\u00e4umt zu halten. Es gibt verschiedene M\u00f6glichkeiten, wie man sein Zuhause ordentlich halten kann. Zum Beispiel kann man einen Putzplan erstellen und sich jeden Tag eine bestimmte Aufgabe vornehmen. So wird nichts \u00fcbersehen und alles bleibt in Ordnung.\n\nEin weiterer wichtiger Aspekt ist die Aufbewahrung. Viele Menschen haben zu viele Sachen und wissen nicht, wohin damit. Das f\u00fchrt dazu, dass vieles herumliegt und das Zuhause unaufger\u00e4umt wirkt. Um das zu vermeiden, sollte man sich \u00fcberlegen, was man wirklich braucht und was nicht. Dinge, die man nicht mehr braucht, kann man entweder verschenken oder verkaufen. So bleibt mehr Platz f\u00fcr die Dinge, die man wirklich braucht und liebt.\n\nAufbewahrung und Ordnung sind also wichtig, um ein Zuhause sauber und aufger\u00e4umt zu halten. Mit ein bisschen Planung und \u00dcberlegung kann jeder sein Zuhause ordentlich halten."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Aufbewahrung & Ordnung Shop",
+            "metaDescription": "Aufbewahrung & Ordnung shop - Finde die besten Aufbewahrungs- und Ordnungsl\u00f6sungen f\u00fcr dein Zuhause. Vom Schrank bis zur Kommode - alles, was du brauchst, um Ordnung zu halten!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Aufbewahrung & Ordnung: Hersteller",
+            "metaDescription": "Aufbewahrung & Ordnung - manufacturer. Finde die besten Aufbewahrung & Ordnung Produkte bei Manufacturer.com.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT Aufbewahrung & Ordnung",
+        "defaultMetaDescription": "Aufbewahrung & Ordnung f\u00fcr $PRODUKT von $HERSTELLER. Jetzt online bestellen bei $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Aufbewahrung & Ordnung",
+        "defaultMetaDescription": "Aufbewahrung & Ordnung: Finde die passende Aufbewahrungsl\u00f6sung f\u00fcr deine $KATEGORIE und ordne dein Zuhause ganz einfach neu!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist f\u00fcr Aufbewahrung & Ordnung. Wir bieten Ihnen eine gro\u00dfe Auswahl an Aufbewahrungsm\u00f6glichkeiten f\u00fcr Ihr Zuhause.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Aufbewahrung & Ordnung",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Aufbewahrung & Ordnung Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Aufbewahrung & Ordnung Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
