@@ -1,5 +1,5 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "deineordnung24.de",
     "hostname": "https://www.deineordnung24.de/",
     "email": "deineordnung24.desurrealnetworks.io",
@@ -37,19 +37,14 @@
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
+    "checklist": "Funktion,Ablagen,Platzverbrauch,Organisation,Material",
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Aufbewahrung & Ordnung",
-        "featureText": "Aufbewahrung & Ordnung ist ein Shop, der sich auf die Aufbewahrung von Gegenständen und die Ordnung von Räumen spezialisiert hat. Hier finden Sie alles, was Sie für die Organisation Ihres Zuhauses oder Ihres Büros benötigen. Von Aufbewahrungskörben und -boxen über Ordnungssysteme bis hin zu Schreibtisch- und Bürobedarf ist alles vorhanden.",
+        "featureText": "In unserem Aufbewahrung & Ordnungs-Shop finden Sie alles, wenn es um die Aufbewahrung von Gegenständen und die Ordnung von Räumen geht. Sie bekommen hier alles, was Sie für die Organisation Ihres Zuhauses oder Ihres Büros benötigen. Von Aufbewahrungskörben und -boxen über Ordnungssysteme bis hin zu Schreibtisch- und Bürobedarf ist alles vorhanden.",
         "index": {
-            "title": "Aufbewahrung & Ordnung: Die beste Lösung für Ihr Zuhause",
-            "metaDescription": "Aufbewahrung & Ordnung - alles für ein aufgeräumtes Zuhause. Regale, Körbe, Schubladen & mehr.",
+            "title": "Aufbewahrung & Ordnung: Die besten Lösungen für Ihr Zuhause",
+            "metaDescription": "Der Shop für Aufbewahrung & Ordnung. Hier findet sich alles für ein aufgeräumtes Zuhause. Regale, Körbe, Schubladen & mehr.",
             "robots": "index, follow",
             "texts": [
                 {
@@ -60,18 +55,18 @@
         },
         "shop": {
             "title": "Aufbewahrung & Ordnung Shop",
-            "metaDescription": "Aufbewahrung & Ordnung shop - Finde die besten Aufbewahrungs- und Ordnungslösungen für dein Zuhause. Vom Schrank bis zur Kommode - alles, was du brauchst, um Ordnung zu halten!",
+            "metaDescription": "Finden die besten Aufbewahrungs- und Ordnungslösungen für dein Zuhause. Vom Schrank bis zur Kommode - alles, was du brauchst, um Ordnung zu halten!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Aufbewahrung & Ordnung: Hersteller",
-            "metaDescription": "Aufbewahrung & Ordnung - manufacturer. Finde die besten Aufbewahrung & Ordnung Produkte bei Manufacturer.com.",
+            "metaDescription": "Übersicht aller Hersteller für Produkte aus den Kategorien: Regale & Regalböden, Umzugskartons, Textile Aufbewahrung, Müllereimer und Aufbewahrungsboxen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT Aufbewahrung & Ordnung",
-        "defaultMetaDescription": "Aufbewahrung & Ordnung für $PRODUKT von $HERSTELLER. Jetzt online bestellen bei $KATEGORIE.",
+        "defaultTitle": "$PRODUKT günstig bestellen",
+        "defaultMetaDescription": "Das Produkt \"$PRODUKT\" vom Hersteller $HERSTELLER ist ein Produkt aus der Kategorie \"$KATEGORIE\". Bestelle es jetzt zum Bestpreis.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -86,7 +81,7 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Aufbewahrung & Ordnung",
+        "defaultTitle": "Shop für $KATEGORIE",
         "defaultMetaDescription": "Aufbewahrung & Ordnung: Finde die passende Aufbewahrungslösung für deine $KATEGORIE und ordne dein Zuhause ganz einfach neu!",
         "defaultRobots": "index, follow",
         "categories": [
@@ -113,7 +108,7 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
+        "defaultTitle": "Produkte von $HERSTELLER",
         "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Aufbewahrung & Ordnung. Wir bieten Ihnen eine große Auswahl an Aufbewahrungsmöglichkeiten für Ihr Zuhause.",
         "defaultRobots": "index, follow",
         "brands": [
