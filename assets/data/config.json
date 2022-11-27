@@ -37,7 +37,7 @@
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
-    "checklist": "Funktion,Ablagen,Platzverbrauch,Organisation,Material",
+    "checklist": ["Funktion", "Ablagen", "Platzverbrauch", "Organisation", "Material"],
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Aufbewahrung & Ordnung",
