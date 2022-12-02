@@ -37,7 +37,13 @@
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
-    "checklist": ["Funktion", "Ablagen", "Platzverbrauch", "Organisation", "Material"],
+    "checklist": [
+        "Funktion",
+        "Ablagen",
+        "Platzverbrauch",
+        "Organisation",
+        "Material"
+    ],
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Aufbewahrung & Ordnung",
@@ -46,12 +52,15 @@
             "title": "Aufbewahrung & Ordnung: Die besten Lösungen für Ihr Zuhause",
             "metaDescription": "Der Shop für Aufbewahrung & Ordnung. Hier findet sich alles für ein aufgeräumtes Zuhause. Regale, Körbe, Schubladen & mehr.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Aufbewahrung & Ordnung: Tipps für ein aufgeräumtes Zuhause",
-                    "text": "Aufbewahrung und Ordnung sind wichtig, um ein Zuhause sauber und aufgeräumt zu halten. Es gibt verschiedene Möglichkeiten, wie man sein Zuhause ordentlich halten kann. Zum Beispiel kann man einen Putzplan erstellen und sich jeden Tag eine bestimmte Aufgabe vornehmen. So wird nichts übersehen und alles bleibt in Ordnung.\n\nEin weiterer wichtiger Aspekt ist die Aufbewahrung. Dinge, die man nicht mehr braucht, sollte man entweder wegwerfen oder in einem Schrank verstauen. So bleibt mehr Platz für die Dinge, die man wirklich braucht und die man gerne sieht.\n\nAuch die Ordnung der Dinge ist wichtig. Nichts ist ärgerlicher, als wenn man etwas sucht und es nicht findet, weil es nicht ordentlich verstaut ist. Also sollte man immer versuchen, die Dinge wieder an ihren Platz zu legen, damit man sie später wiederfindet.\n\nAll diese Aspekte sind wichtig, um ein ordentliches und aufgeräumtes Zuhause zu haben. Wer sein Zuhause ordentlich hält, hat mehr Freude daran und fühlt sich auch wohler."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Aufbewahrung & Ordnung: Tipps für ein aufgeräumtes Zuhause",
+                        "text": "Aufbewahrung und Ordnung sind wichtig, um ein Zuhause sauber und aufgeräumt zu halten. Es gibt verschiedene Möglichkeiten, wie man sein Zuhause ordentlich halten kann. Zum Beispiel kann man einen Putzplan erstellen und sich jeden Tag eine bestimmte Aufgabe vornehmen. So wird nichts übersehen und alles bleibt in Ordnung.\n\nEin weiterer wichtiger Aspekt ist die Aufbewahrung. Dinge, die man nicht mehr braucht, sollte man entweder wegwerfen oder in einem Schrank verstauen. So bleibt mehr Platz für die Dinge, die man wirklich braucht und die man gerne sieht.\n\nAuch die Ordnung der Dinge ist wichtig. Nichts ist ärgerlicher, als wenn man etwas sucht und es nicht findet, weil es nicht ordentlich verstaut ist. Also sollte man immer versuchen, die Dinge wieder an ihren Platz zu legen, damit man sie später wiederfindet.\n\nAll diese Aspekte sind wichtig, um ein ordentliches und aufgeräumtes Zuhause zu haben. Wer sein Zuhause ordentlich hält, hat mehr Freude daran und fühlt sich auch wohler."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Aufbewahrung & Ordnung Shop",
