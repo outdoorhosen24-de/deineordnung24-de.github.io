@@ -2,7 +2,7 @@
     {
         "key": "regale & regalböden",
         "name": "Regale & Regalböden",
-        "slug": "regale-regalboden",
+        "slug": "regale-regalboeden",
         "productCategory": "Regale & Regalböden",
         "subCategories": []
     },
@@ -23,7 +23,7 @@
     {
         "key": "mülleimer",
         "name": "Mülleimer",
-        "slug": "mulleimer",
+        "slug": "muelleimer",
         "productCategory": "Mülleimer",
         "subCategories": []
     },
