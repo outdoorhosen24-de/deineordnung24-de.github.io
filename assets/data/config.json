@@ -1,185 +1,188 @@
 {
-    "configIsReady": true,
-    "domain": "deineordnung24.de",
-    "hostname": "https://www.deineordnung24.de/",
-    "email": "deineordnung24.de@surrealnetworks.io",
-    "organization": "deineordnung24.de",
-    "logoText": "Deineordnung24.de",
-    "title": "Aufbewahrung & Ordnung",
-    "subline": "Der Online Shop für Aufbewahrung & Ordnung",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "3303955",
-        "3702677",
-        "2472397",
-        "7454085",
-        "2230951",
-        "5223649"
-    ],
-    "winnerProducts": [
-        "2478154",
-        "6062145",
-        "7056278"
-    ],
-    "featuredCategories": [
-        "Umzugskartons",
-        "Textile Aufbewahrung",
-        "Textile Aufbewahrung",
-        "Umzugskartons",
-        "Aufbewahrungsboxen",
-        "Textile Aufbewahrung"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Funktion",
-        "Ablagen",
-        "Platzverbrauch",
-        "Organisation",
-        "Material"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Aufbewahrung & Ordnung",
-        "featureText": "In unserem Aufbewahrung & Ordnungs-Shop finden Sie alles, wenn es um die Aufbewahrung von Gegenständen und die Ordnung von Räumen geht. Sie bekommen hier alles, was Sie für die Organisation Ihres Zuhauses oder Ihres Büros benötigen. Von Aufbewahrungskörben und -boxen über Ordnungssysteme bis hin zu Schreibtisch- und Bürobedarf ist alles vorhanden.",
-        "index": {
-            "title": "Aufbewahrung & Ordnung: Die besten Lösungen für Ihr Zuhause",
-            "metaDescription": "Der Shop für Aufbewahrung & Ordnung. Hier findet sich alles für ein aufgeräumtes Zuhause. Regale, Körbe, Schubladen & mehr.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei deineordnung24.de",
-                        "text": "Herzlich willkommen auf deiner Online-Plattform für alles rund um Aufbewahrung & Ordnung! Bei uns findest du eine große Auswahl an Produkten, die dir dabei helfen, dein Zuhause aufgeräumt und ordentlich zu halten. Ob Regale & Regalböden, Umzugskartons, Textile Aufbewahrung, Mülleimer oder Aufbewahrungsboxen - bei uns wirst du garantiert fündig. Egal, ob du bei einem Umzug auf der Suche nach robusten und praktischen Umzugskartons bist oder deine Wohnung neu einrichten möchtest und dabei auf der Suche nach praktischen Regalen und Regalböden bist - wir haben genau das Richtige für dich. Mit unseren Textil-Aufbewahrungslösungen kannst du deine Wäsche, Decken und Kissen ordentlich verstauen und hast alles griffbereit zur Hand. Und auch für den Müll haben wir die passenden Lösungen parat - von kompakten Mülleimern für das Badezimmer bis hin zu großen Mülltonnen für den Garten. Auch für den Stauraum in deiner Wohnung haben wir eine große Auswahl an Aufbewahrungsboxen, die dir dabei helfen, deine Dinge ordentlich zu verstauen und Platz zu sparen. Schau dich einfach um und entdecke die vielfältigen Möglichkeiten, wie du dein Zuhause aufräumen und ordentlich halten kannst. Wir freuen uns darauf, dich bei deineordnung24.de begrüßen zu dürfen!"
-                    },
-                    {
-                        "title": "Regale & Regalböden",
-                        "text": "Entdecke unser breites Angebot an Regalen und Regalböden für Deine Ordnung. Wir bieten stabile und praktische Lösungen für jeden Raum in Deinem Zuhause. Ob für Dein Büro, Dein Wohnzimmer oder Deine Garage, wir haben das passende Regal für Dich. Schau Dich um und finde das perfekte Regal für Deine Bedürfnisse."
-                    },
-                    {
-                        "title": "Umzugskartons",
-                        "text": "Mit unseren hochwertigen <a href=\"/kategorie/umzugskartons/\" title=\"Umzugskartons\">Umzugskartons</a> bist Du bestens für Deinen Umzug vorbereitet. Unsere Kartons sind robust und stabil, damit Deine Sachen sicher verpackt sind. Wir bieten Umzugskartons in verschiedenen Größen und Ausführungen, damit Du die perfekte Lösung für Deine Bedürfnisse findest. Schau Dich um und bestelle jetzt Deine Umzugskartons."
-                    },
-                    {
-                        "title": "Textile Aufbewahrung",
-                        "text": "Mit unserer Textilen Aufbewahrung hast Du endlich Ordnung im Kleiderschrank. Ob Du Deine Kleidung, Bettwäsche oder Handtücher ordentlich verstauen möchtest, wir haben die passende Lösung für Dich. Unsere Aufbewahrungslösungen sind praktisch und stilvoll, damit Du Deine Räume ordentlich und attraktiv gestalten kannst. Schau Dich um und finde Deine perfekte <a href=\"/kategorie/textile-aufbewahrung/\" title=\"Textile Aufbewahrung\">Textile Aufbewahrung</a>."
-                    },
-                    {
-                        "title": "Mülleimer",
-                        "text": "Entdecke unser breites Angebot an <a href=\"/kategorie/muelleimer/\" title=\"Mülleimer\">Mülleimer</a>n für Deine Ordnung. Wir bieten praktische und stilvolle Lösungen für jeden Raum in Deinem Zuhause. Ob Du einen Mülleimer für Deine Küche, Dein Badezimmer oder Dein Büro suchst, wir haben das passende Modell für Dich. Schau Dich um und finde den perfekten Mülleimer für Deine Bedürfnisse."
-                    },
-                    {
-                        "title": "Aufbewahrungsboxen",
-                        "text": "Mit unseren praktischen <a href=\"/kategorie/aufbewahrungsboxen/\" title=\"Aufbewahrungsboxen\">Aufbewahrungsboxen</a> hast Du endlich Ordnung in Deinem Zuhause. Unsere Boxen sind robust und stabil, damit Deine Gegenstände sicher verstaut sind. Wir bieten Aufbewahrungsboxen in verschiedenen Größen und Ausführungen, damit Du die perfekte Lösung für Deine Bedürfnisse findest. Schau Dich um und bestelle jetzt Deine Aufbewahrungsboxen."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Aufbewahrung & Ordnung Shop",
-            "metaDescription": "Finden die besten Aufbewahrungs- und Ordnungslösungen für dein Zuhause. Vom Schrank bis zur Kommode - alles, was du brauchst, um Ordnung zu halten!",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Aufbewahrung & Ordnung: Hersteller",
-            "metaDescription": "Übersicht aller Hersteller für Produkte aus den Kategorien: Regale & Regalböden, Umzugskartons, Textile Aufbewahrung, Müllereimer und Aufbewahrungsboxen.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT günstig bestellen",
-        "defaultMetaDescription": "Das Produkt \"$PRODUKT\" vom Hersteller $HERSTELLER ist ein Produkt aus der Kategorie \"$KATEGORIE\". Bestelle es jetzt zum Bestpreis.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "deineordnung24.de",
+  "hostname": "https://www.deineordnung24.de/",
+  "email": "deineordnung24.de@surrealnetworks.io",
+  "organization": "deineordnung24.de",
+  "logoText": "Deineordnung24.de",
+  "title": "Aufbewahrung & Ordnung",
+  "subline": "Der Online Shop f\u00fcr Aufbewahrung & Ordnung",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "3303955",
+    "3702677",
+    "2472397",
+    "7454085",
+    "2230951",
+    "5223649"
+  ],
+  "winnerProducts": [
+    "2478154",
+    "6062145",
+    "7056278"
+  ],
+  "featuredCategories": [
+    "Umzugskartons",
+    "Textile Aufbewahrung",
+    "Textile Aufbewahrung",
+    "Umzugskartons",
+    "Aufbewahrungsboxen",
+    "Textile Aufbewahrung"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Funktion",
+    "Ablagen",
+    "Platzverbrauch",
+    "Organisation",
+    "Material"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Aufbewahrung & Ordnung",
+    "featureText": "In unserem Aufbewahrung & Ordnungs-Shop finden Sie alles, wenn es um die Aufbewahrung von Gegenst\u00e4nden und die Ordnung von R\u00e4umen geht. Sie bekommen hier alles, was Sie f\u00fcr die Organisation Ihres Zuhauses oder Ihres B\u00fcros ben\u00f6tigen. Von Aufbewahrungsk\u00f6rben und -boxen \u00fcber Ordnungssysteme bis hin zu Schreibtisch- und B\u00fcrobedarf ist alles vorhanden.",
+    "index": {
+      "title": "Aufbewahrung & Ordnung: Die besten L\u00f6sungen f\u00fcr Ihr Zuhause",
+      "metaDescription": "Der Shop f\u00fcr Aufbewahrung & Ordnung. Hier findet sich alles f\u00fcr ein aufger\u00e4umtes Zuhause. Regale, K\u00f6rbe, Schubladen & mehr.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei deineordnung24.de",
+            "text": "Herzlich willkommen auf deiner Online-Plattform f\u00fcr alles rund um Aufbewahrung & Ordnung! Bei uns findest du eine gro\u00dfe Auswahl an Produkten, die dir dabei helfen, dein Zuhause aufger\u00e4umt und ordentlich zu halten. Ob Regale & Regalb\u00f6den, Umzugskartons, Textile Aufbewahrung, M\u00fclleimer oder Aufbewahrungsboxen - bei uns wirst du garantiert f\u00fcndig. Egal, ob du bei einem Umzug auf der Suche nach robusten und praktischen Umzugskartons bist oder deine Wohnung neu einrichten m\u00f6chtest und dabei auf der Suche nach praktischen Regalen und Regalb\u00f6den bist - wir haben genau das Richtige f\u00fcr dich. Mit unseren Textil-Aufbewahrungsl\u00f6sungen kannst du deine W\u00e4sche, Decken und Kissen ordentlich verstauen und hast alles griffbereit zur Hand. Und auch f\u00fcr den M\u00fcll haben wir die passenden L\u00f6sungen parat - von kompakten M\u00fclleimern f\u00fcr das Badezimmer bis hin zu gro\u00dfen M\u00fclltonnen f\u00fcr den Garten. Auch f\u00fcr den Stauraum in deiner Wohnung haben wir eine gro\u00dfe Auswahl an Aufbewahrungsboxen, die dir dabei helfen, deine Dinge ordentlich zu verstauen und Platz zu sparen. Schau dich einfach um und entdecke die vielf\u00e4ltigen M\u00f6glichkeiten, wie du dein Zuhause aufr\u00e4umen und ordentlich halten kannst. Wir freuen uns darauf, dich bei deineordnung24.de begr\u00fc\u00dfen zu d\u00fcrfen!"
+          },
+          {
+            "title": "Regale & Regalb\u00f6den",
+            "text": "Entdecke unser breites Angebot an Regalen und Regalb\u00f6den f\u00fcr Deine Ordnung. Wir bieten stabile und praktische L\u00f6sungen f\u00fcr jeden Raum in Deinem Zuhause. Ob f\u00fcr Dein B\u00fcro, Dein Wohnzimmer oder Deine Garage, wir haben das passende Regal f\u00fcr Dich. Schau Dich um und finde das perfekte Regal f\u00fcr Deine Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Umzugskartons",
+            "text": "Mit unseren hochwertigen <a href=\"/kategorie/umzugskartons/\" title=\"Umzugskartons\">Umzugskartons</a> bist Du bestens f\u00fcr Deinen Umzug vorbereitet. Unsere Kartons sind robust und stabil, damit Deine Sachen sicher verpackt sind. Wir bieten Umzugskartons in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen, damit Du die perfekte L\u00f6sung f\u00fcr Deine Bed\u00fcrfnisse findest. Schau Dich um und bestelle jetzt Deine Umzugskartons."
+          },
+          {
+            "title": "Textile Aufbewahrung",
+            "text": "Mit unserer Textilen Aufbewahrung hast Du endlich Ordnung im Kleiderschrank. Ob Du Deine Kleidung, Bettw\u00e4sche oder Handt\u00fccher ordentlich verstauen m\u00f6chtest, wir haben die passende L\u00f6sung f\u00fcr Dich. Unsere Aufbewahrungsl\u00f6sungen sind praktisch und stilvoll, damit Du Deine R\u00e4ume ordentlich und attraktiv gestalten kannst. Schau Dich um und finde Deine perfekte <a href=\"/kategorie/textile-aufbewahrung/\" title=\"Textile Aufbewahrung\">Textile Aufbewahrung</a>."
+          },
+          {
+            "title": "M\u00fclleimer",
+            "text": "Entdecke unser breites Angebot an <a href=\"/kategorie/muelleimer/\" title=\"M\u00fclleimer\">M\u00fclleimer</a>n f\u00fcr Deine Ordnung. Wir bieten praktische und stilvolle L\u00f6sungen f\u00fcr jeden Raum in Deinem Zuhause. Ob Du einen M\u00fclleimer f\u00fcr Deine K\u00fcche, Dein Badezimmer oder Dein B\u00fcro suchst, wir haben das passende Modell f\u00fcr Dich. Schau Dich um und finde den perfekten M\u00fclleimer f\u00fcr Deine Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Aufbewahrungsboxen",
+            "text": "Mit unseren praktischen <a href=\"/kategorie/aufbewahrungsboxen/\" title=\"Aufbewahrungsboxen\">Aufbewahrungsboxen</a> hast Du endlich Ordnung in Deinem Zuhause. Unsere Boxen sind robust und stabil, damit Deine Gegenst\u00e4nde sicher verstaut sind. Wir bieten Aufbewahrungsboxen in verschiedenen Gr\u00f6\u00dfen und Ausf\u00fchrungen, damit Du die perfekte L\u00f6sung f\u00fcr Deine Bed\u00fcrfnisse findest. Schau Dich um und bestelle jetzt Deine Aufbewahrungsboxen."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "Shop für $KATEGORIE",
-        "defaultMetaDescription": "Aufbewahrung & Ordnung: Finde die passende Aufbewahrungslösung für deine $KATEGORIE und ordne dein Zuhause ganz einfach neu!",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Aufbewahrung & Ordnung Shop",
+      "metaDescription": "Finden die besten Aufbewahrungs- und Ordnungsl\u00f6sungen f\u00fcr dein Zuhause. Vom Schrank bis zur Kommode - alles, was du brauchst, um Ordnung zu halten!",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Produkte von $HERSTELLER",
-        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Aufbewahrung & Ordnung. Wir bieten Ihnen eine große Auswahl an Aufbewahrungsmöglichkeiten für Ihr Zuhause.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Aufbewahrung & Ordnung",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Aufbewahrung & Ordnung Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Aufbewahrung & Ordnung Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Aufbewahrung & Ordnung: Hersteller",
+      "metaDescription": "\u00dcbersicht aller Hersteller f\u00fcr Produkte aus den Kategorien: Regale & Regalb\u00f6den, Umzugskartons, Textile Aufbewahrung, M\u00fcllereimer und Aufbewahrungsboxen.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT g\u00fcnstig bestellen",
+    "defaultMetaDescription": "Das Produkt \"$PRODUKT\" vom Hersteller $HERSTELLER ist ein Produkt aus der Kategorie \"$KATEGORIE\". Bestelle es jetzt zum Bestpreis.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "Shop f\u00fcr $KATEGORIE",
+    "defaultMetaDescription": "Aufbewahrung & Ordnung: Finde die passende Aufbewahrungsl\u00f6sung f\u00fcr deine $KATEGORIE und ordne dein Zuhause ganz einfach neu!",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Produkte von $HERSTELLER",
+    "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist f\u00fcr Aufbewahrung & Ordnung. Wir bieten Ihnen eine gro\u00dfe Auswahl an Aufbewahrungsm\u00f6glichkeiten f\u00fcr Ihr Zuhause.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Aufbewahrung & Ordnung",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Aufbewahrung & Ordnung Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Aufbewahrung & Ordnung Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
