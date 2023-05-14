@@ -1,221 +1,228 @@
 {
-  "configIsReady": true,
-  "domain": "deineordnung24.de",
-  "hostname": "https://www.deineordnung24.de/",
-  "email": "deineordnung24.de@surrealnetworks.io",
-  "organization": "deineordnung24.de",
-  "logoText": "Deineordnung24.de",
-  "title": "Aufbewahrung & Ordnung",
-  "subline": "Der Online Shop für Aufbewahrung & Ordnung",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "3303955",
-    "3702677",
-    "2472397",
-    "7454085",
-    "2230951",
-    "5223649"
-  ],
-  "winnerProducts": [
-    "2478154",
-    "6062145",
-    "7056278"
-  ],
-  "featuredCategories": [
-    "Umzugskartons",
-    "Textile Aufbewahrung",
-    "Textile Aufbewahrung",
-    "Umzugskartons",
-    "Aufbewahrungsboxen",
-    "Textile Aufbewahrung"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Funktion",
-    "Ablagen",
-    "Platzverbrauch",
-    "Organisation",
-    "Material"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Aufbewahrung & Ordnung",
-    "featureText": "In unserem Aufbewahrung & Ordnungs-Shop finden Sie alles, wenn es um die Aufbewahrung von Gegenständen und die Ordnung von Räumen geht. Sie bekommen hier alles, was Sie für die Organisation Ihres Zuhauses oder Ihres Büros benötigen. Von Aufbewahrungskörben und -boxen über Ordnungssysteme bis hin zu Schreibtisch- und Bürobedarf ist alles vorhanden.",
-    "index": {
-      "title": "Aufbewahrung & Ordnung: Die besten Lösungen für Ihr Zuhause",
-      "metaDescription": "Der Shop für Aufbewahrung & Ordnung. Hier findet sich alles für ein aufgeräumtes Zuhause. Regale, Körbe, Schubladen & mehr.",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei deineordnung24.de",
-            "text": "Herzlich willkommen auf deiner Online-Plattform für alles rund um Aufbewahrung & Ordnung! Bei uns findest du eine große Auswahl an Produkten, die dir dabei helfen, dein Zuhause aufgeräumt und ordentlich zu halten. Ob Regale & Regalböden, Umzugskartons, Textile Aufbewahrung, Mülleimer oder Aufbewahrungsboxen - bei uns wirst du garantiert fündig. Egal, ob du bei einem Umzug auf der Suche nach robusten und praktischen Umzugskartons bist oder deine Wohnung neu einrichten möchtest und dabei auf der Suche nach praktischen Regalen und Regalböden bist - wir haben genau das Richtige für dich. Mit unseren Textil-Aufbewahrungslösungen kannst du deine Wäsche, Decken und Kissen ordentlich verstauen und hast alles griffbereit zur Hand. Und auch für den Müll haben wir die passenden Lösungen parat - von kompakten Mülleimern für das Badezimmer bis hin zu großen Mülltonnen für den Garten. Auch für den Stauraum in deiner Wohnung haben wir eine große Auswahl an Aufbewahrungsboxen, die dir dabei helfen, deine Dinge ordentlich zu verstauen und Platz zu sparen. Schau dich einfach um und entdecke die vielfältigen Möglichkeiten, wie du dein Zuhause aufräumen und ordentlich halten kannst. Wir freuen uns darauf, dich bei deineordnung24.de begrüßen zu dürfen!"
-          },
-          {
-            "title": "Regale & Regalböden",
-            "text": "Entdecke unser breites Angebot an Regalen und Regalböden für Deine Ordnung. Wir bieten stabile und praktische Lösungen für jeden Raum in Deinem Zuhause. Ob für Dein Büro, Dein Wohnzimmer oder Deine Garage, wir haben das passende Regal für Dich. Schau Dich um und finde das perfekte Regal für Deine Bedürfnisse."
-          },
-          {
-            "title": "Umzugskartons",
-            "text": "Mit unseren hochwertigen <a href=\"/kategorie/umzugskartons/\" title=\"Umzugskartons\">Umzugskartons</a> bist Du bestens für Deinen Umzug vorbereitet. Unsere Kartons sind robust und stabil, damit Deine Sachen sicher verpackt sind. Wir bieten Umzugskartons in verschiedenen Größen und Ausführungen, damit Du die perfekte Lösung für Deine Bedürfnisse findest. Schau Dich um und bestelle jetzt Deine Umzugskartons."
-          },
-          {
-            "title": "Textile Aufbewahrung",
-            "text": "Mit unserer Textilen Aufbewahrung hast Du endlich Ordnung im Kleiderschrank. Ob Du Deine Kleidung, Bettwäsche oder Handtücher ordentlich verstauen möchtest, wir haben die passende Lösung für Dich. Unsere Aufbewahrungslösungen sind praktisch und stilvoll, damit Du Deine Räume ordentlich und attraktiv gestalten kannst. Schau Dich um und finde Deine perfekte <a href=\"/kategorie/textile-aufbewahrung/\" title=\"Textile Aufbewahrung\">Textile Aufbewahrung</a>."
-          },
-          {
-            "title": "Mülleimer",
-            "text": "Entdecke unser breites Angebot an <a href=\"/kategorie/muelleimer/\" title=\"Mülleimer\">Mülleimer</a>n für Deine Ordnung. Wir bieten praktische und stilvolle Lösungen für jeden Raum in Deinem Zuhause. Ob Du einen Mülleimer für Deine Küche, Dein Badezimmer oder Dein Büro suchst, wir haben das passende Modell für Dich. Schau Dich um und finde den perfekten Mülleimer für Deine Bedürfnisse."
-          },
-          {
-            "title": "Aufbewahrungsboxen",
-            "text": "Mit unseren praktischen <a href=\"/kategorie/aufbewahrungsboxen/\" title=\"Aufbewahrungsboxen\">Aufbewahrungsboxen</a> hast Du endlich Ordnung in Deinem Zuhause. Unsere Boxen sind robust und stabil, damit Deine Gegenstände sicher verstaut sind. Wir bieten Aufbewahrungsboxen in verschiedenen Größen und Ausführungen, damit Du die perfekte Lösung für Deine Bedürfnisse findest. Schau Dich um und bestelle jetzt Deine Aufbewahrungsboxen."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "deineordnung24.de",
+    "hostname": "https://www.deineordnung24.de/",
+    "email": "deineordnung24.de@surrealnetworks.io",
+    "organization": "deineordnung24.de",
+    "logoText": "Deineordnung24.de",
+    "title": "Aufbewahrung & Ordnung",
+    "subline": "Der Online Shop für Aufbewahrung & Ordnung",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "3303955",
+        "3702677",
+        "2472397",
+        "7454085",
+        "2230951",
+        "5223649"
+    ],
+    "winnerProducts": [
+        "2478154",
+        "6062145",
+        "7056278"
+    ],
+    "featuredCategories": [
+        "Umzugskartons",
+        "Textile Aufbewahrung",
+        "Textile Aufbewahrung",
+        "Umzugskartons",
+        "Aufbewahrungsboxen",
+        "Textile Aufbewahrung"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Funktion",
+        "Ablagen",
+        "Platzverbrauch",
+        "Organisation",
+        "Material"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Aufbewahrung & Ordnung",
+        "featureText": "In unserem Aufbewahrung & Ordnungs-Shop finden Sie alles, wenn es um die Aufbewahrung von Gegenständen und die Ordnung von Räumen geht. Sie bekommen hier alles, was Sie für die Organisation Ihres Zuhauses oder Ihres Büros benötigen. Von Aufbewahrungskörben und -boxen über Ordnungssysteme bis hin zu Schreibtisch- und Bürobedarf ist alles vorhanden.",
+        "index": {
+            "title": "Aufbewahrung & Ordnung: Die besten Lösungen für Ihr Zuhause",
+            "metaDescription": "Der Shop für Aufbewahrung & Ordnung. Hier findet sich alles für ein aufgeräumtes Zuhause. Regale, Körbe, Schubladen & mehr.",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei deineordnung24.de",
+                        "text": "Herzlich willkommen auf deiner Online-Plattform für alles rund um Aufbewahrung & Ordnung! Bei uns findest du eine große Auswahl an Produkten, die dir dabei helfen, dein Zuhause aufgeräumt und ordentlich zu halten. Ob Regale & Regalböden, Umzugskartons, Textile Aufbewahrung, Mülleimer oder Aufbewahrungsboxen - bei uns wirst du garantiert fündig. Egal, ob du bei einem Umzug auf der Suche nach robusten und praktischen Umzugskartons bist oder deine Wohnung neu einrichten möchtest und dabei auf der Suche nach praktischen Regalen und Regalböden bist - wir haben genau das Richtige für dich. Mit unseren Textil-Aufbewahrungslösungen kannst du deine Wäsche, Decken und Kissen ordentlich verstauen und hast alles griffbereit zur Hand. Und auch für den Müll haben wir die passenden Lösungen parat - von kompakten Mülleimern für das Badezimmer bis hin zu großen Mülltonnen für den Garten. Auch für den Stauraum in deiner Wohnung haben wir eine große Auswahl an Aufbewahrungsboxen, die dir dabei helfen, deine Dinge ordentlich zu verstauen und Platz zu sparen. Schau dich einfach um und entdecke die vielfältigen Möglichkeiten, wie du dein Zuhause aufräumen und ordentlich halten kannst. Wir freuen uns darauf, dich bei deineordnung24.de begrüßen zu dürfen!"
+                    },
+                    {
+                        "title": "Regale & Regalböden",
+                        "text": "Entdecke unser breites Angebot an Regalen und Regalböden für Deine Ordnung. Wir bieten stabile und praktische Lösungen für jeden Raum in Deinem Zuhause. Ob für Dein Büro, Dein Wohnzimmer oder Deine Garage, wir haben das passende Regal für Dich. Schau Dich um und finde das perfekte Regal für Deine Bedürfnisse."
+                    },
+                    {
+                        "title": "Umzugskartons",
+                        "text": "Mit unseren hochwertigen <a href=\"/kategorie/umzugskartons/\" title=\"Umzugskartons\">Umzugskartons</a> bist Du bestens für Deinen Umzug vorbereitet. Unsere Kartons sind robust und stabil, damit Deine Sachen sicher verpackt sind. Wir bieten Umzugskartons in verschiedenen Größen und Ausführungen, damit Du die perfekte Lösung für Deine Bedürfnisse findest. Schau Dich um und bestelle jetzt Deine Umzugskartons."
+                    },
+                    {
+                        "title": "Textile Aufbewahrung",
+                        "text": "Mit unserer Textilen Aufbewahrung hast Du endlich Ordnung im Kleiderschrank. Ob Du Deine Kleidung, Bettwäsche oder Handtücher ordentlich verstauen möchtest, wir haben die passende Lösung für Dich. Unsere Aufbewahrungslösungen sind praktisch und stilvoll, damit Du Deine Räume ordentlich und attraktiv gestalten kannst. Schau Dich um und finde Deine perfekte <a href=\"/kategorie/textile-aufbewahrung/\" title=\"Textile Aufbewahrung\">Textile Aufbewahrung</a>."
+                    },
+                    {
+                        "title": "Mülleimer",
+                        "text": "Entdecke unser breites Angebot an <a href=\"/kategorie/muelleimer/\" title=\"Mülleimer\">Mülleimer</a>n für Deine Ordnung. Wir bieten praktische und stilvolle Lösungen für jeden Raum in Deinem Zuhause. Ob Du einen Mülleimer für Deine Küche, Dein Badezimmer oder Dein Büro suchst, wir haben das passende Modell für Dich. Schau Dich um und finde den perfekten Mülleimer für Deine Bedürfnisse."
+                    },
+                    {
+                        "title": "Aufbewahrungsboxen",
+                        "text": "Mit unseren praktischen <a href=\"/kategorie/aufbewahrungsboxen/\" title=\"Aufbewahrungsboxen\">Aufbewahrungsboxen</a> hast Du endlich Ordnung in Deinem Zuhause. Unsere Boxen sind robust und stabil, damit Deine Gegenstände sicher verstaut sind. Wir bieten Aufbewahrungsboxen in verschiedenen Größen und Ausführungen, damit Du die perfekte Lösung für Deine Bedürfnisse findest. Schau Dich um und bestelle jetzt Deine Aufbewahrungsboxen."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Aufbewahrung & Ordnung Shop",
+            "metaDescription": "Finden die besten Aufbewahrungs- und Ordnungslösungen für dein Zuhause. Vom Schrank bis zur Kommode - alles, was du brauchst, um Ordnung zu halten!",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Aufbewahrung & Ordnung: Hersteller",
+            "metaDescription": "Übersicht aller Hersteller für Produkte aus den Kategorien: Regale & Regalböden, Umzugskartons, Textile Aufbewahrung, Müllereimer und Aufbewahrungsboxen.",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Aufbewahrung & Ordnung Shop",
-      "metaDescription": "Finden die besten Aufbewahrungs- und Ordnungslösungen für dein Zuhause. Vom Schrank bis zur Kommode - alles, was du brauchst, um Ordnung zu halten!",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Aufbewahrung & Ordnung: Hersteller",
-      "metaDescription": "Übersicht aller Hersteller für Produkte aus den Kategorien: Regale & Regalböden, Umzugskartons, Textile Aufbewahrung, Müllereimer und Aufbewahrungsboxen.",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT günstig bestellen",
-    "defaultMetaDescription": "Das Produkt \"$PRODUKT\" vom Hersteller $HERSTELLER ist ein Produkt aus der Kategorie \"$KATEGORIE\". Bestelle es jetzt zum Bestpreis.",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "2478154",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT günstig bestellen",
+        "defaultMetaDescription": "Das Produkt \"$PRODUKT\" vom Hersteller $HERSTELLER ist ein Produkt aus der Kategorie \"$KATEGORIE\". Bestelle es jetzt zum Bestpreis.",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "KIS Bio-Mülleimer Kompost Container Smart 9 l - Ideal für Ihre Küche und den Umweltschutz",
-              "text": "<p class=\"justify\">Der KIS Bio-Mülleimer Kompost Container Smart 9 l ist ein praktischer und umweltfreundlicher Begleiter für Ihre Küche. Mit einem Fassungsvermögen von 9 Litern bietet er ausreichend Platz für Ihre organischen Abfälle und trägt somit dazu bei, den Umweltschutz zu fördern. Das moderne und ansprechende Design passt in jede Umgebung und macht den Kompost Container zu einem unverzichtbaren Helfer im Haushalt.</p><p class=\"justify\">Der Bio-Kompost Eimer verfügt über viele nützliche Details, die die Handhabung und den Komfort erhöhen. Der robuste, ergonomische Griff dient unter anderem als Sicherheitssperrvorrichtung, um den Klappdeckel einfach und sicher verschließen zu können. Legt man den Tragegriff nach vorne, ist der Klappdeckel zuverlässig verschlossen. Dadurch bleiben unangenehme Gerüche im Inneren des Containers und locken keine ungebetenen Gäste an.</p><p class=\"justify\">Zudem erleichtert der Smart Bio Container das Entleeren durch einen versteckten Griff auf der Unterseite. So kann der Inhalt schnell und problemlos in den passenden Gartenkomposter oder die Biotonne entleert werden. Der KIS Bio-Mülleimer ist vielseitig einsetzbar und ergänzt die bestehende Kategorien wie Startseite, Wohnen, Haushalt, Aufbewahrung & Ordnung und Mülleimer.</p><p class=\"justify\">Erhältlich zum Preis von 11,49 €, hat der KIS Bio-Mülleimer Kompost Container Smart 9 l bereits viele zufriedene Kunden gewonnen, wie die 4 Sterne aus 186 Bewertungen zeigen. Mithilfe dieses Bio-Kompost Containers leisten Sie nicht nur einen Beitrag zum Umweltschutz, sondern profitieren auch von einer praktischen und komfortablen Lösung für Ihre Küche. Schließen Sie sich der umweltbewussten Gemeinschaft an und entscheiden Sie sich für den KIS Bio-Mülleimer Kompost Container Smart 9 l!</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6062145",
-        "seo": {
-          "texts": [
-            {
-              "title": "OBI Metall-Schwerlast-Steckregal Anthrazit 180 cm x 90 cm x 45 cm",
-              "text": "<p class=\"justify\">Das OBI Metall-Schwerlast-Steckregal in Anthrazit ist ein hochwertiges Regal für verschiedenste Einsatzbereiche. Mit den großzügigen Maßen von 180 cm x 90 cm x 45 cm (H x B x T) eignet es sich hervorragend für Büros, Keller, Vorratsräume, Garagen oder Werkstätten. Die fünf Böden bieten bei gleichmäßiger Verteilung eine Tragkraft von jeweils bis zu 265 kg. Diese Eigenschaft macht das Regal zu einer robusten und langlebigen Lösung für Ihre Aufbewahrungsbedürfnisse.</p><p class=\"justify\">Dank der anthrazitfarbenen Hammerschlag-Lackierung ist das Metall-Schwerlast-Steckregal äußerst kratzfest. Die hohe Stabilität und Flexibilität in der Handhabung zeichnen das Regal aus. Neben der üblichen Verwendung als Regal können Sie das Metallregal ebenfalls als Werktisch nutzen. Somit ergeben sich zahlreiche Möglichkeiten zur Anpassung an Ihre individuellen Bedürfnisse.</p><p class=\"justify\">Das praktische Stecksystem des OBI Metall-Schwerlast-Steckregals ermöglicht einen unkomplizierten und schnellen Auf- und Abbau ohne Schrauben und Werkzeug. So kann das Regal bei Bedarf einfach demontiert und an einem anderen Ort wieder aufgebaut werden. Die abgerundeten Kanten im U-Profil sorgen dabei für einen sicheren Aufbau.</p><p class=\"justify\">Mit einer hervorragenden Bewertung von 5 Sternen und 450 Kundenrezensionen ist das OBI Metall-Schwerlast-Steckregal Anthrazit 180 cm x 90 cm x 45 cm eine erstklassige Wahl für Ihre Aufbewahrungsanforderungen. Profitieren Sie von der Qualität und Vielseitigkeit dieses OBI-Produkts und sorgen Sie für Ordnung in Ihrem Zuhause oder Arbeitsbereich.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7056278",
-        "seo": {
-          "texts": [
-            {
-              "title": "OBI Kunststoff-Steckregal XS-60 Schwarz 135 cm x 60 cm x 30 cm",
-              "text": "<p class=\"justify\">Das OBI Kunststoff-Steckregal XS-60 ist ein stilvolles und funktionales Regal, das sich perfekt für verschiedene Einsatzbereiche eignet. Ob im Büro, Keller, Vorratsraum, in der Garage oder in der Werkstatt - dieses Regal sorgt überall für Ordnung und Übersichtlichkeit. Gefertigt aus robustem und pflegeleichtem Kunststoff, ist es besonders langlebig und widerstandsfähig.</p><p class=\"justify\">Das Regal hat die Maße 135 cm x 60 cm x 30 cm (H x B x T) und verfügt über vier Fachböden, die jeweils eine Belastbarkeit von bis zu 20 kg bieten. Um eine sichere Lagerung zu gewährleisten, ist es wichtig, auf eine gleichmäßige Gewichtsverteilung der Last zu achten. Das Kunststoff-Steckregal überzeugt durch seine unkomplizierte und schnelle Montage, dank des praktischen Stecksystems. Hierfür sind weder Schrauben noch Werkzeug erforderlich.</p><p class=\"justify\">Falls das Regal einmal umgestaltet oder neu positioniert werden muss, lässt es sich problemlos demontieren und wieder aufbauen. Die vier Füße sorgen für einen sicheren Stand des Regals, auch unter Belastung. Das schicke Design in Schwarz passt zu den verschiedensten Einrichtungsstilen und sorgt für ein ansprechendes Erscheinungsbild.</p><p class=\"justify\">Das OBI Kunststoff-Steckregal XS-60 ist eine praktische und ästhetische Lösung für die verschiedensten Aufbewahrungs- und Ordnungsbedürfnisse im Haushalt und im beruflichen Bereich. Mit seinem ansprechenden Design und der hohen Funktionalität wird dieses Regal jedem Raum zu mehr Ordnung und Übersichtlichkeit verhelfen.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "Shop für $KATEGORIE",
-    "defaultMetaDescription": "Aufbewahrung & Ordnung: Finde die passende Aufbewahrungslösung für deine $KATEGORIE und ordne dein Zuhause ganz einfach neu!",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "2478154",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "KIS Bio-Mülleimer Kompost Container Smart 9 l - Ideal für Ihre Küche und den Umweltschutz",
+                            "text": "<p class=\"justify\">Der KIS Bio-Mülleimer Kompost Container Smart 9 l ist ein praktischer und umweltfreundlicher Begleiter für Ihre Küche. Mit einem Fassungsvermögen von 9 Litern bietet er ausreichend Platz für Ihre organischen Abfälle und trägt somit dazu bei, den Umweltschutz zu fördern. Das moderne und ansprechende Design passt in jede Umgebung und macht den Kompost Container zu einem unverzichtbaren Helfer im Haushalt.</p><p class=\"justify\">Der Bio-Kompost Eimer verfügt über viele nützliche Details, die die Handhabung und den Komfort erhöhen. Der robuste, ergonomische Griff dient unter anderem als Sicherheitssperrvorrichtung, um den Klappdeckel einfach und sicher verschließen zu können. Legt man den Tragegriff nach vorne, ist der Klappdeckel zuverlässig verschlossen. Dadurch bleiben unangenehme Gerüche im Inneren des Containers und locken keine ungebetenen Gäste an.</p><p class=\"justify\">Zudem erleichtert der Smart Bio Container das Entleeren durch einen versteckten Griff auf der Unterseite. So kann der Inhalt schnell und problemlos in den passenden Gartenkomposter oder die Biotonne entleert werden. Der KIS Bio-Mülleimer ist vielseitig einsetzbar und ergänzt die bestehende Kategorien wie Startseite, Wohnen, Haushalt, Aufbewahrung & Ordnung und Mülleimer.</p><p class=\"justify\">Erhältlich zum Preis von 11,49 €, hat der KIS Bio-Mülleimer Kompost Container Smart 9 l bereits viele zufriedene Kunden gewonnen, wie die 4 Sterne aus 186 Bewertungen zeigen. Mithilfe dieses Bio-Kompost Containers leisten Sie nicht nur einen Beitrag zum Umweltschutz, sondern profitieren auch von einer praktischen und komfortablen Lösung für Ihre Küche. Schließen Sie sich der umweltbewussten Gemeinschaft an und entscheiden Sie sich für den KIS Bio-Mülleimer Kompost Container Smart 9 l!</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6062145",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "OBI Metall-Schwerlast-Steckregal Anthrazit 180 cm x 90 cm x 45 cm",
+                            "text": "<p class=\"justify\">Das OBI Metall-Schwerlast-Steckregal in Anthrazit ist ein hochwertiges Regal für verschiedenste Einsatzbereiche. Mit den großzügigen Maßen von 180 cm x 90 cm x 45 cm (H x B x T) eignet es sich hervorragend für Büros, Keller, Vorratsräume, Garagen oder Werkstätten. Die fünf Böden bieten bei gleichmäßiger Verteilung eine Tragkraft von jeweils bis zu 265 kg. Diese Eigenschaft macht das Regal zu einer robusten und langlebigen Lösung für Ihre Aufbewahrungsbedürfnisse.</p><p class=\"justify\">Dank der anthrazitfarbenen Hammerschlag-Lackierung ist das Metall-Schwerlast-Steckregal äußerst kratzfest. Die hohe Stabilität und Flexibilität in der Handhabung zeichnen das Regal aus. Neben der üblichen Verwendung als Regal können Sie das Metallregal ebenfalls als Werktisch nutzen. Somit ergeben sich zahlreiche Möglichkeiten zur Anpassung an Ihre individuellen Bedürfnisse.</p><p class=\"justify\">Das praktische Stecksystem des OBI Metall-Schwerlast-Steckregals ermöglicht einen unkomplizierten und schnellen Auf- und Abbau ohne Schrauben und Werkzeug. So kann das Regal bei Bedarf einfach demontiert und an einem anderen Ort wieder aufgebaut werden. Die abgerundeten Kanten im U-Profil sorgen dabei für einen sicheren Aufbau.</p><p class=\"justify\">Mit einer hervorragenden Bewertung von 5 Sternen und 450 Kundenrezensionen ist das OBI Metall-Schwerlast-Steckregal Anthrazit 180 cm x 90 cm x 45 cm eine erstklassige Wahl für Ihre Aufbewahrungsanforderungen. Profitieren Sie von der Qualität und Vielseitigkeit dieses OBI-Produkts und sorgen Sie für Ordnung in Ihrem Zuhause oder Arbeitsbereich.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7056278",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "OBI Kunststoff-Steckregal XS-60 Schwarz 135 cm x 60 cm x 30 cm",
+                            "text": "<p class=\"justify\">Das OBI Kunststoff-Steckregal XS-60 ist ein stilvolles und funktionales Regal, das sich perfekt für verschiedene Einsatzbereiche eignet. Ob im Büro, Keller, Vorratsraum, in der Garage oder in der Werkstatt - dieses Regal sorgt überall für Ordnung und Übersichtlichkeit. Gefertigt aus robustem und pflegeleichtem Kunststoff, ist es besonders langlebig und widerstandsfähig.</p><p class=\"justify\">Das Regal hat die Maße 135 cm x 60 cm x 30 cm (H x B x T) und verfügt über vier Fachböden, die jeweils eine Belastbarkeit von bis zu 20 kg bieten. Um eine sichere Lagerung zu gewährleisten, ist es wichtig, auf eine gleichmäßige Gewichtsverteilung der Last zu achten. Das Kunststoff-Steckregal überzeugt durch seine unkomplizierte und schnelle Montage, dank des praktischen Stecksystems. Hierfür sind weder Schrauben noch Werkzeug erforderlich.</p><p class=\"justify\">Falls das Regal einmal umgestaltet oder neu positioniert werden muss, lässt es sich problemlos demontieren und wieder aufbauen. Die vier Füße sorgen für einen sicheren Stand des Regals, auch unter Belastung. Das schicke Design in Schwarz passt zu den verschiedensten Einrichtungsstilen und sorgt für ein ansprechendes Erscheinungsbild.</p><p class=\"justify\">Das OBI Kunststoff-Steckregal XS-60 ist eine praktische und ästhetische Lösung für die verschiedensten Aufbewahrungs- und Ordnungsbedürfnisse im Haushalt und im beruflichen Bereich. Mit seinem ansprechenden Design und der hohen Funktionalität wird dieses Regal jedem Raum zu mehr Ordnung und Übersichtlichkeit verhelfen.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "Shop für $KATEGORIE",
+        "defaultMetaDescription": "Aufbewahrung & Ordnung: Finde die passende Aufbewahrungslösung für deine $KATEGORIE und ordne dein Zuhause ganz einfach neu!",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "Produkte von $HERSTELLER",
+        "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Aufbewahrung & Ordnung. Wir bieten Ihnen eine große Auswahl an Aufbewahrungsmöglichkeiten für Ihr Zuhause.",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Aufbewahrung & Ordnung",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Aufbewahrung & Ordnung Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Aufbewahrung & Ordnung Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "Produkte von $HERSTELLER",
-    "defaultMetaDescription": "$HERSTELLER ist Ihr Spezialist für Aufbewahrung & Ordnung. Wir bieten Ihnen eine große Auswahl an Aufbewahrungsmöglichkeiten für Ihr Zuhause.",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Aufbewahrung & Ordnung",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Aufbewahrung & Ordnung Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Aufbewahrung & Ordnung Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
